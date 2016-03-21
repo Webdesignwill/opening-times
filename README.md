@@ -1,2 +1,2 @@
 # opening-times
-A module to display opening times for a company
+Display when a company is open or closed based on the day and time

@@ -1,0 +1,24 @@
+{
+  "name": "OpeningTimes",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "NODE_ENV=development gulp default",
+    "build": "NODE_ENV=production gulp build"
+  },
+  "description": "Display when a company is open or closed based on the day and time",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-webserver": "^0.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Webdesignwill/opening-times"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
